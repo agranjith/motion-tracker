@@ -130,8 +130,8 @@ Thumbs.db
 *.sln
 *.sw?
 
-# GitHub config
-.github/
+# GitHub Copilot instructions (ignore only this file, not the whole folder)
+.github/copilot-instructions.md
 
 # SSL certificates for development
 *.pem

@@ -91,7 +91,7 @@ function App() {
           <p className="subtitle">Real-time device motion sensing & data export</p>
           <div className="github-link">
             <a 
-              href="https://github.com/yourusername/motion-tracker" 
+              href="https://github.com/agranjith/motion-tracker" 
               target="_blank" 
               rel="noopener noreferrer"
               className="github-button"
